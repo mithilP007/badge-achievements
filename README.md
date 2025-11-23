@@ -6,3 +6,5 @@ This repository is for earning GitHub achievement badges!
 - Pull Shark
 - YOLO
 - Pair Extraordinaire
+- - Galaxy Brain
+- Starstruck
